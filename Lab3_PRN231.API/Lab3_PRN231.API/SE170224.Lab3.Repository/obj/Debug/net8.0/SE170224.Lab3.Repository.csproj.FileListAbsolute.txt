@@ -1,0 +1,14 @@
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\bin\Debug\net8.0\SE170224.Lab3.Repository.deps.json
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\bin\Debug\net8.0\SE170224.Lab3.Repository.runtimeconfig.json
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\bin\Debug\net8.0\SE170224.Lab3.Repository.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\bin\Debug\net8.0\SE170224.Lab3.Repository.pdb
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.csproj.AssemblyReference.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.AssemblyInfoInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.AssemblyInfo.cs
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.csproj.CoreCompileInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\refint\SE170224.Lab3.Repository.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.pdb
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\SE170224.Lab3.Repository.genruntimeconfig.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Repository\obj\Debug\net8.0\ref\SE170224.Lab3.Repository.dll

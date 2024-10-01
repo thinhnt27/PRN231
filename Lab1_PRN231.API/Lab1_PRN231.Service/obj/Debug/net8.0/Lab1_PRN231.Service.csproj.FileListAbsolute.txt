@@ -1,0 +1,15 @@
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\bin\Debug\net8.0\Lab1_PRN231.Service.deps.json
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\bin\Debug\net8.0\Lab1_PRN231.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\bin\Debug\net8.0\Lab1_PRN231.Service.pdb
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\bin\Debug\net8.0\Lab1_PRN231.Repository.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\bin\Debug\net8.0\Lab1_PRN231.Repository.pdb
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.csproj.AssemblyReference.cache
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.AssemblyInfoInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.AssemblyInfo.cs
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.csproj.CoreCompileInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN.A6041695.Up2Date
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\refint\Lab1_PRN231.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\Lab1_PRN231.Service.pdb
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\Lab1_PRN231.API\Lab1_PRN231.Service\obj\Debug\net8.0\ref\Lab1_PRN231.Service.dll

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|d:\\thinh\\thinh\\fpt term\\term8\\prn321\\lab02_bookstoreodata8\\odatabookstore\\model\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|solutionrelative:odatabookstore\\model\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|d:\\thinh\\thinh\\fpt term\\term8\\prn321\\lab02_bookstoreodata8\\odatabookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|solutionrelative:odatabookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|d:\\thinh\\thinh\\fpt term\\term8\\prn321\\lab02_bookstoreodata8\\odatabookstore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|solutionrelative:odatabookstore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|d:\\thinh\\thinh\\fpt term\\term8\\prn321\\lab02_bookstoreodata8\\odatabookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|solutionrelative:odatabookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|d:\\thinh\\thinh\\fpt term\\term8\\prn321\\lab02_bookstoreodata8\\odatabookstore\\model\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|solutionrelative:odatabookstore\\model\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|d:\\thinh\\thinh\\fpt term\\term8\\prn321\\lab02_bookstoreodata8\\odatabookstore\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829C20B2-9887-458C-B5E3-E6BD1992F3B6}|ODataBookStore\\ODataBookStore.csproj|solutionrelative:odatabookstore\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Dockerfile",
+              "RelativeDocumentMoniker": "ODataBookStore\\Dockerfile",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Dockerfile",
+              "RelativeToolTip": "ODataBookStore\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T06:17:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Model\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "ODataBookStore\\Model\\BookStoreContext.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Model\\BookStoreContext.cs",
+              "RelativeToolTip": "ODataBookStore\\Model\\BookStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:54:52.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PressesController.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Controllers\\PressesController.cs",
+              "RelativeDocumentMoniker": "ODataBookStore\\Controllers\\PressesController.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Controllers\\PressesController.cs",
+              "RelativeToolTip": "ODataBookStore\\Controllers\\PressesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:28:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ODataBookStore\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ODataBookStore\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:42:08.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Program.cs",
+              "RelativeDocumentMoniker": "ODataBookStore\\Program.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Program.cs",
+              "RelativeToolTip": "ODataBookStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:03:52.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Model\\DataSource.cs",
+              "RelativeDocumentMoniker": "ODataBookStore\\Model\\DataSource.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\PRN321\\Lab02_BookStoreOData8\\ODataBookStore\\Model\\DataSource.cs",
+              "RelativeToolTip": "ODataBookStore\\Model\\DataSource.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:03:34.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 481,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.deps.json
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.AssemblyReference.cache
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfoInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfo.cs
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.CoreCompileInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.Prod.A6C9AE0C.Up2Date
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\refint\SWP.ProductManagement.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.pdb
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\ref\SWP.ProductManagement.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\PRN321\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.sourcelink.json

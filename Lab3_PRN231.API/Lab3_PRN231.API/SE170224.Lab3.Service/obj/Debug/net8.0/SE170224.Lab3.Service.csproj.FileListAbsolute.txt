@@ -1,0 +1,15 @@
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.csproj.AssemblyReference.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.AssemblyInfoInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.AssemblyInfo.cs
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.csproj.CoreCompileInputs.cache
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\bin\Debug\net8.0\SE170224.Lab3.Service.deps.json
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\bin\Debug\net8.0\SE170224.Lab3.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\bin\Debug\net8.0\SE170224.Lab3.Service.pdb
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\bin\Debug\net8.0\SE170224.Lab3.Repository.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\bin\Debug\net8.0\SE170224.Lab3.Repository.pdb
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.5E017D96.Up2Date
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\refint\SE170224.Lab3.Service.dll
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\SE170224.Lab3.Service.pdb
+D:\Thinh\Thinh\FPT Term\Term8\Lab3_PRN231.API\Lab3_PRN231.API\SE170224.Lab3.Service\obj\Debug\net8.0\ref\SE170224.Lab3.Service.dll

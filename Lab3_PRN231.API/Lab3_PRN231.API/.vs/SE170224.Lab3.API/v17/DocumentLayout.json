@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58C21D-2962-42BD-8809-0222DCDEE82B}|SE170224.Lab3.API\\SE170224.Lab3.API.csproj|d:\\thinh\\thinh\\fpt term\\term8\\lab3_prn231.api\\lab3_prn231.api\\se170224.lab3.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58C21D-2962-42BD-8809-0222DCDEE82B}|SE170224.Lab3.API\\SE170224.Lab3.API.csproj|solutionrelative:se170224.lab3.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A4CD14-5FAF-47B2-BFDD-74EC9DC1B81F}|SE170224.Lab3.Service\\SE170224.Lab3.Service.csproj|d:\\thinh\\thinh\\fpt term\\term8\\lab3_prn231.api\\lab3_prn231.api\\se170224.lab3.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A4CD14-5FAF-47B2-BFDD-74EC9DC1B81F}|SE170224.Lab3.Service\\SE170224.Lab3.Service.csproj|solutionrelative:se170224.lab3.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CA1D7C-416F-4203-A0AA-97DFECD36713}|SE170224.Lab3.Repository\\SE170224.Lab3.Repository.csproj|d:\\thinh\\thinh\\fpt term\\term8\\lab3_prn231.api\\lab3_prn231.api\\se170224.lab3.repository\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CA1D7C-416F-4203-A0AA-97DFECD36713}|SE170224.Lab3.Repository\\SE170224.Lab3.Repository.csproj|solutionrelative:se170224.lab3.repository\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58C21D-2962-42BD-8809-0222DCDEE82B}|SE170224.Lab3.API\\SE170224.Lab3.API.csproj|d:\\thinh\\thinh\\fpt term\\term8\\lab3_prn231.api\\lab3_prn231.api\\se170224.lab3.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58C21D-2962-42BD-8809-0222DCDEE82B}|SE170224.Lab3.API\\SE170224.Lab3.API.csproj|solutionrelative:se170224.lab3.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CA1D7C-416F-4203-A0AA-97DFECD36713}|SE170224.Lab3.Repository\\SE170224.Lab3.Repository.csproj|d:\\thinh\\thinh\\fpt term\\term8\\lab3_prn231.api\\lab3_prn231.api\\se170224.lab3.repository\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CA1D7C-416F-4203-A0AA-97DFECD36713}|SE170224.Lab3.Repository\\SE170224.Lab3.Repository.csproj|solutionrelative:se170224.lab3.repository\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.Repository\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "SE170224.Lab3.Repository\\Models\\Account.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.Repository\\Models\\Account.cs",
+              "RelativeToolTip": "SE170224.Lab3.Repository\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:03:49.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.Repository\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SE170224.Lab3.Repository\\Models\\Product.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.Repository\\Models\\Product.cs",
+              "RelativeToolTip": "SE170224.Lab3.Repository\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:02:39.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SE170224.Lab3.Service\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "SE170224.Lab3.Service\\Services\\ProductService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAD4vywAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:01:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SE170224.Lab3.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SE170224.Lab3.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:59:02.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SE170224.Lab3.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Thinh\\Thinh\\FPT Term\\Term8\\Lab3_PRN231.API\\Lab3_PRN231.API\\SE170224.Lab3.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SE170224.Lab3.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:58:55.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 481,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

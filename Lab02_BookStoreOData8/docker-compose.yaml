@@ -1,0 +1,19 @@
+services:
+  lab2-odata:
+    container_name: lab2_odata
+    image: lab2-odata:latest
+    build:
+      context: .
+      dockerfile: ODataBookStore/Dockerfile
+    environment:
+      - ASPNETCORE_URLS=http://+:8081
+    ports:
+      - 9090:8081
+
+    networks:
+      lab2-odata-networks:
+    
+
+networks:
+  lab2-odata-networks:
+    name: lab1_odata_networks
